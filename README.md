@@ -1,5 +1,3 @@
-
-
 ## ✨ Aesthetic Art Ekt (AAE) Manifesto
 
 **AAE** (Aesthetic Art Ekt) je vizuelni prompt standard za umetničku AI generaciju.

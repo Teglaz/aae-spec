@@ -1,4 +1,4 @@
----
+
 
 ## ✨ Aesthetic Art Ekt (AAE) Manifesto
 

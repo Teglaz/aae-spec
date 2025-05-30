@@ -42,3 +42,33 @@ AAE slike odražavaju snagu, kontemplaciju i lepotu ženskog oblika bez eksploat
 > • Zajedno grade AAE kontekst (estetski, nenapadan, nije NSFW).
 
 ---
+---
+
+## 🇬🇧 Best-practice rules / 🇷🇸 Pravila dobrog ukusa  
+
+1. **Respect the balance**  
+   - *EN* Always pair the AAE tag with a descriptive prompt that stays artistic, not explicit.  
+   - *SR* AAE tag uvek ide uz opis koji ostaje umetnički, ne eksplicitan.
+
+2. **Focus on light & mood**  
+   - *EN* Use ambience clues (e.g. `WTRWND`, `GLDHOUR`) to hint lighting instead of writing camera jargon.  
+   - *SR* Koristi ambijentalne oznake (npr. `WTRWND`, `GLDHOUR`) umesto tehničkog žargona o objektivima.
+
+3. **One tag per image**  
+   - *EN* Don’t chain multiple AAE tags—pick the most relevant.  
+   - *SR* Ne kači više AAE tagova za jednu sliku—dovoljan je jedan, najbitniji.
+
+4. **Keep it inclusive**  
+   - *EN* Avoid stereotypes about body, gender, or culture.  
+   - *SR* Izbegavaj stereotipe o telu, polu ili kulturi.
+
+5. **Credit & share**  
+   - *EN* When you post, add `#AAE` so others can find the standard.  
+   - *SR* Kad objavljuješ, dodaj `#AAE` da zajednica lakše pronađe standard.
+
+---
+
+### License  
+
+- **EN** AAE is released under MIT License – free to use, fork, and improve.  
+- **SR** AAE je objavljen pod MIT licencom – slobodno koristiti, forkovati i unapređivati.

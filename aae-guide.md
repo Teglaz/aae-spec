@@ -1,48 +1,80 @@
-# 🏷️ AAE Guide / Водич за AAE
+# 🏷️ AAE Guide / AAE vodič
+
+Dobrodošli u Aesthetic Art Ekt (AAE) vodič. Ovde ćete naći primere upotrebe AAE tagova kroz vizuelne prikaze heroine Talia Rise, kao i tehniku imenovanja i organizacije slika.
 
 ---
 
-## 🇬🇧 Introduction / 🇷🇸 Увод
+## 📷 Example images / Primeri slika
 
-**EN:**  
-The Aesthetic Art Ekt (AAE) standard provides a structured way to tag, organize, and reference AI-generated images. This guide explains the AAE syntax, naming, and usage with practical examples.
-
-**SR:**  
-AAE (Aesthetic Art Ekt) стандард омогућава структуирано означавање, организацију и референцирање AI-генерисаних слика. Овај водич објашњава синтаксу, именовање и употребу са практичним примерима.
+**EN:** Below are example images for the AAE tag system.  
+**SR:** Ispod se nalaze primeri slika za AAE sistem tagovanja.
 
 ---
 
-## 📷 Example images / Примери слика
-
----
-
-### **AAE-SUNKSD-OLYM-FB01**
-**EN:** A stunning full-body realistic portrait of **Talia Rise** — sun-kissed, fit, athletic and curvy physique like Mr. Olympia bikini model, fuller bust, toned legs, sculpted delts and glutes.  
-**SR:** Задивљујући реалистичан портрет **Талије Рајз** у пуној фигури – препланула, фит, атлетски и обло обликована попут Mr. Olympia bikini модела, наглашених груди, дефинисаних ногу и рамена.
-
-**Example image:**  
+### Talia Rise FB01
 ![Talia Rise FB01](talia-rise-sunksd-olym-fb01.jpg)
 
----
-
-### **AAE-SUNKSD-OLYM-FB03-PADEL**
-**EN:** A stunning full-body realistic portrait of **Talia Rise** — sun-kissed, fit, athletic and curvy physique like Mr. Olympia bikini model, fuller bust, toned legs, sculpted delts and glutes. She is in a red crop top and white mini skirt, playing padel, with a sun visor on her head.  
-**SR:** Задивљујући реалистичан портрет **Талије Рајз** у пуној фигури – препланула, фит, атлетски и обло обликована као Mr. Olympia bikini модел, у црвеном crop топу и белој mini сукњи, игра падел, има sun visor на глави.
-
-**Example image:**  
-![Talia Rise Padel](talia-rise-sunksd-olym-fb03-padel.png)
+- **EN:** Ultra-realistic full-body portrait of Talia Rise, sun-kissed skin, defined muscles, soft natural light.
+- **SR:** Ultra-realističan portret atletske žene, preplanula koža, definisani mišići, meko prirodno svetlo.
+- **AAE tag:** `AAE-SUNKSD-OLYM-FB01`
 
 ---
 
-### **AAE-SUNKSD-OLYM-FB04-HORSE**
-**EN:** Full-body ultra-realistic portrait of **Talia Rise** riding a horse on the beach at sunset, sun-kissed skin, muscular, fit, Olympia-level physique, long hair flowing.  
-**SR:** Пунофигурални ултра-реалистичан портрет **Талије Рајз** на коњу, залазак сунца, препланула кожа, изражени мишићи, атлетски грађена, дуга коса у покрету.
+### Talia Rise FB03 – Padel
+![Talia Rise FB03 - Padel](talia-rise-sunksd-olym-fb03-padel.png)
 
-**Example image:**  
-![Talia Rise Horse](20250530_0924_Beach Horseback Beauty_simple_compose_01jwg142yxf3ct4hw5ttvzd2rf.png)
+- **EN:** Talia Rise in a red crop top and white mini skirt, playing padel, sun visor on her head.
+- **SR:** Talija Rajz u crvenom crop topu i beloj mini suknji, igra padel, sun visor na glavi.
+- **AAE tag:** `AAE-SUNKSD-OLYM-FB03-PADEL`
 
 ---
 
-### **AAE-SUNKSD-OLYM-FB05-BED**
-**EN:** Talia Rise lying on a bed, arms above head, ultra-fit, sun-kissed, defined abs and glutes, soft morning light, natural relaxed pose.  
-**SR:** Талија Рајз лежи на кревету, руке изнад главе, ултра-фит,
+### Talia Rise FB04 – Horse
+![Talia Rise FB04 - Horse](talia-rise-sunksd-olym-fb04-horse.png)
+
+- **EN:** Talia Rise riding a horse on the beach at sunset, athletic and powerful physique.
+- **SR:** Talija Rajz jaše konja na plaži u suton, atletska i snažna figura.
+- **AAE tag:** `AAE-SUNKSD-OLYM-FB04-HORSE`
+
+---
+
+### Talia Rise FB05 – Bed
+![Talia Rise FB05 - Bed](talia-rise-sunksd-olym-fb05-bed.png)
+
+- **EN:** Talia Rise lying on bed, sun-kissed, sculpted body, relaxed pose, soft morning light.
+- **SR:** Talija Rajz leži na krevetu, preplanula, izvajana figura, opuštena poza, meko jutarnje svetlo.
+- **AAE tag:** `AAE-SUNKSD-OLYM-FB05-BED`
+
+---
+
+### Talia Rise FB06 – Bed II
+![Talia Rise FB06 - Bed](talia-rise-sunksd-olym-fb06-bed.png)
+
+- **EN:** Talia Rise sleeping on bed, athletic, natural light, peaceful expression.
+- **SR:** Talija Rajz spava na krevetu, atletska, prirodno svetlo, spokojan izraz lica.
+- **AAE tag:** `AAE-SUNKSD-OLYM-FB06-BED`
+
+---
+
+## 🗂️ Folder & Naming Instructions / Uputstvo za imenovanje fajlova
+
+- **All images must be placed in the same folder as this guide (`examples/`).**
+- **Slike moraju biti imenovane tačno kao gore (bez velikih slova, bez praznina, bez specijalnih karaktera).**
+- **U markdown-u koristite relativne putanje (kao gore).**
+
+---
+
+## 🌍 Dvojezični prikaz
+
+- *All descriptions are shown in both English and Serbian for maximum accessibility.*
+- *Svi opisi su prikazani na engleskom i srpskom jeziku radi bolje dostupnosti.*
+
+---
+
+## ℹ️ Additional Notes / Dodatne napomene
+
+- **If images are not displaying:** Check if the markdown file and images are in the same folder, and the filenames are correct.
+- **Ako slike ne prikazuje:** Proveri da li su slike i markdown fajl u istom folderu i da li su imena 100% tačna.
+
+---
+

@@ -42,7 +42,21 @@ AAE slike odražavaju snagu, kontemplaciju i lepotu ženskog oblika bez eksploat
 > • Zajedno grade AAE kontekst (estetski, nenapadan, nije NSFW).
 
 ---
+
+## 🖼 Example images / Primeri slika
+
+Here is an example image with AAE tags:
+
+![Talia Rise FB01](examples/images/talia-rise-sunksd-olym-fb01.jpg)
+
+**EN:** Ultra-realistic full-body portrait of an athletic woman, sun-kissed skin, defined muscles, soft natural light.  
+**SR:** Ultra-realističan portret atletske žene, preplanula koža, definisani mišići, meko prirodno svetlo.
+
+**AAE tag:** `AAE-SUNKSD-OLYM-FB01`
+
 ---
+
+
 
 ## 🇬🇧 Best-practice rules / 🇷🇸 Pravila dobrog ukusa  
 

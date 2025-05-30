@@ -56,7 +56,14 @@ Dobrodošli u vodič kroz Aesthetic Art Ekt (AAE) promptove za slike. U nastavku
 - **AAE tag:** `AAE–SUNKSD–OLYM–FB06–BED`
 
 ---
+### Talia Rise FB01 v2
 
+![Talia Rise FB01 v2](examples/talia-rise-sunksd-olym-fb01-v2.jpg)
+
+- **EN:** A stunning full-body realistic portrait of Talia Rise, sun-kissed, fit, athletic, Olympia bikini model, V2 version.
+- **SR:** Zadivljujući realističan portret Talije Rajz — preplanula, fit, atletska figura, Mr. Olympia bikini model, verzija 2.
+- **AAE tag:** `AAE–SUNKSD–OLYM–FB01–V2`
+---
 **EN:**  
 Each image above demonstrates a distinct AAE tag, and is meant to serve as a reference for future prompt generation, dataset creation, and tag assignment in the AAE ecosystem.
 

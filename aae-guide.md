@@ -18,3 +18,27 @@ To je estetski balans senzualnog, disciplinovanog i narativnog izraza – fokusi
 
 AAE slike odražavaju snagu, kontemplaciju i lepotu ženskog oblika bez eksploatacije.
 
+---
+
+## 🇬🇧 Syntax examples / 🇷🇸 Sintaksa primera
+
+### Tag format
+
+- `AAE` – prefix (standard)
+- `WTRWIND` – ambience clue (*water + window*)
+- `MSCN` – mood/scene (*moody scene*)
+- `VLU84` – verzija/hash
+
+### Prompt example  
+> **English**  
+> `Ultra-realistic portrait of an athletic woman, backlit by warm rain through a window, towel draped, soft shadows.`  
+>  
+> **Srpski**  
+> `Ultra-realističan portret atletske žene, pozadinsko toplo kišno svetlo kroz prozor, peškir prebačen, meke senke.`
+
+> **How to use / Kako se koristi**  
+> • Tag ide u *caption* ili na početak prompta.  
+> • Prompt opis ostaje čitljiv AI modelima.  
+> • Zajedno grade AAE kontekst (estetski, nenapadan, nije NSFW).
+
+---

@@ -2,12 +2,19 @@
   <img src="images/logo.png" alt="AAE Logo" width="180"/>
 </p>
 
+<p align="center">
+  <img src="images/slika1.png" alt="Slika 1" width="300"/>
+  <img src="images/slika2.png" alt="Slika 2" width="300"/>
+</p>
+
 Dobrodošao u **AAE Standard** 🌟  
 <span id="top"></span>
 
 *Welcome to the **AAE Standard** 🌟*
 
 Ovaj sajt dokumentuje **Aesthetic Art Ekt (AAE)** – vizuelni prompt-standard za AI generaciju slika.
+…
+
 
 > **AAE standard = balans senzualnog i narativnog izraza, fokus na telo, svetlo i emociju.**  
 > Ne spada u NSFW ni generičke stock-fotke.

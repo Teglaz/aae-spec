@@ -1,13 +1,42 @@
 [
-    {
-      "file": "examples/images/talia-rise-sunksd-olym-fb01.jpg",
-      "tags": ["SUNKSD", "OLYM", "FB01"],
-      "title_en": "Talia Rise FB01",
-      "title_sr": "Talija Rajz FB01",
-      "description_en": "A stunning full-body realistic portrait of Talia Rise, sun-kissed, fit, athletic, Olympia bikini model.",
-      "description_sr": "Zadivljujući realističan portret Talije Rajz — preplanula, fit, atletski građena kao Mr. Olympia bikini model.",
-      "author": "Milan",
-      "date": "2025-05-30"
-    }
-  ]
-  
+  {
+    "file": "talia-rise-sunksd-olym-fb01.jpg",
+    "tags": ["SUNKSD", "OLYM", "FB01"],
+    "title_en": "Talia Rise FB01",
+    "title_sr": "Talija Rajz FB01",
+    "description_en": "A stunning full-body realistic portrait of Talia Rise, sun-kissed, fit, athletic, Olympia bikini model.",
+    "description_sr": "Zadivljujući realističan portret Talije Rajz — preplanula, fit, atletski građena kao Mr. Olympia bikini model.",
+    "author": "Milan",
+    "date": "2025-05-30"
+  },    
+  {
+    "file": "talia-rise-sunksd-olym-fb03-padel.png",
+    "tags": ["SUNKSD", "OLYM", "FB03", "PADEL"],
+    "title_en": "Talia Rise FB03 – Padel",
+    "title_sr": "Talija Rajz FB03 – Padel",
+    "description_en": "Talia Rise, sun-kissed, fit, athletic, in red crop top and white mini skirt, playing padel.",
+    "description_sr": "Talija Rajz, preplanula, fit, atletski građena, u crvenom crop topu i beloj mini suknji, igra padel.",
+    "author": "Milan",
+    "date": "2025-05-30"
+  },
+  {
+    "file": "talia-rise-sunksd-olym-fb01-v2.jpg",
+    "tags": ["SUNKSD", "OLYM", "FB01", "V2"],
+    "title_en": "Talia Rise FB01 v2",
+    "title_sr": "Talija Rajz FB01 v2",
+    "description_en": "A stunning full-body realistic portrait of Talia Rise, sun-kissed, fit, athletic, Olympia bikini model, V2 version.",
+    "description_sr": "Zadivljujući realističan portret Talije Rajz — preplanula, fit, atletska figura, Mr. Olympia bikini model, verzija 2.",
+    "author": "Milan",
+    "date": "2025-05-30"
+  },
+  {
+    "file": "examples/images/talia-rise-sunksd-olym-fb01.jpg",
+    "tags": ["SUNKSD", "OLYM", "FB01"],
+    "title_en": "Talia Rise FB01",
+    "title_sr": "Talija Rajz FB01",
+    "description_en": "A stunning full-body realistic portrait of Talia Rise, sun-kissed, fit, athletic, Olympia bikini model.",
+    "description_sr": "Zadivljujući realističan portret Talije Rajz — preplanula, fit, atletski građena kao Mr. Olympia bikini model.",
+    "author": "Milan",
+    "date": "2025-05-30"
+  }
+]

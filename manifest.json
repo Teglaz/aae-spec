@@ -1,5 +1,16 @@
 [
   {
+    "file": "examples/images/talia-rise-sunksd-olym-fb03-paddleboard.png",
+    "tags": ["SUNKSD", "OLYM", "FB03", "PADDLE"],
+    "title_en": "Talia Rise FB03 – Paddleboard",
+    "title_sr": "Talija Rajz FB03 – Paddlebord",
+    "description_en": "A stunning full-body realistic portrait of Talia Rise — sun-kissed, fit, athletic; Brazilian strawberry monokini, paddling toward the horizon.",
+    "description_sr": "Zadivljujući portret Talije Rajz u punoj figuri — preplanula, fit, atletska; brazilki monokini boje jagode, vesla ka horizontu.",
+    "author": "Milan",
+    "date": "2025-05-31"
+  },
+  
+  {
     "file": "talia-rise-sunksd-olym-fb01.jpg",
     "tags": ["SUNKSD", "OLYM", "FB01"],
     "title_en": "Talia Rise FB01",

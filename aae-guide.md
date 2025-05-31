@@ -90,3 +90,15 @@ Svaka slika iznad prikazuje poseban AAE tag i služi kao referenca za buduće ge
 - **Date:** 2025-05-30
 
 ---
+
+### Talia Rise CF Queen 042
+
+![Talia Rise CF Queen 042](examples/images/talia-rise-cfqueen-xtrstrng-bldsprt-042.jpg)
+
+- **EN:** Ultra-realistic cinematic portrait of sun-kissed, athletic Talia Rise in a sheer white shirt by a rain-speckled window; moody golden tones, Leica 85 mm.  
+- **SR:** Ultra-realističan kinematski portret preplanule atletske Talije Rajz u beloj prozirnoj košulji, uz prozor sa kapima kiše; zlatni tonovi, Leica 85 mm.  
+- **AAE tag:** `AAE-SUNKSD-CFQUEEN-XTRSTRNG-BLDSPRT-042`
+- **Author:** Milan
+- **Date:** 2025-05-30
+
+

@@ -9,4 +9,4 @@ Ispod su AAE primeri.
 ![talia-rise-sunksd-olym-fb05-bed](examples/images/talia-rise-sunksd-olym-fb05-bed.png)
 ![talia-rise-sunksd-olym-fb06-bed](examples/images/talia-rise-sunksd-olym-fb06-bed.png)
 ![talia-rise-sunksd-olym-fb03-paddleboard](examples/images/talia-rise-sunksd-olym-fb03-paddleboard.png)
-
+![talia-rise-cfqueen-xtrstrng-bldsprt-042](examples/images/talia-rise-cfqueen-xtrstrng-bldsprt-042.jpg)

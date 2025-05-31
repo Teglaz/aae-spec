@@ -2,21 +2,9 @@
 
 Ispod su AAE primeri.
 
-## Talia Rise FB01
-![Talia Rise FB01](examples/images/talia-rise-sunksd-olym-fb01.jpg)
-
-## Talia Rise FB03 – Padel
-![Talia Rise FB03 – Padel](examples/images/talia-rise-sunksd-olym-fb03-padel.png)
-## Talia Rise FB04 – Horse  
-![FB04](examples/images/talia-rise-sunksd-olym-fb04-horse.png)
-
-## Talia Rise FB05 – Bed  
-![FB05](examples/images/talia-rise-sunksd-olym-fb05-bed.png)
-## Talia Rise FB04 – Horse
-![Talia Rise FB04](examples/images/talia-rise-sunksd-olym-fb04-horse.png)
-
-## Talia Rise FB05 – Bed
-![Talia Rise FB05](examples/images/talia-rise-sunksd-olym-fb05-bed.png)
-
-## Talia Rise FB06 – Bed II
-![Talia Rise FB06](examples/images/talia-rise-sunksd-olym-fb06-bed.png)
+![talia-rise-sunksd-olym-fb01-v2](examples/images/talia-rise-sunksd-olym-fb01-v2.jpg)
+![talia-rise-sunksd-olym-fb01](examples/images/talia-rise-sunksd-olym-fb01.jpg)
+![talia-rise-sunksd-olym-fb03-padel](examples/images/talia-rise-sunksd-olym-fb03-padel.png)
+![talia-rise-sunksd-olym-fb04-horse](examples/images/talia-rise-sunksd-olym-fb04-horse.png)
+![talia-rise-sunksd-olym-fb05-bed](examples/images/talia-rise-sunksd-olym-fb05-bed.png)
+![talia-rise-sunksd-olym-fb06-bed](examples/images/talia-rise-sunksd-olym-fb06-bed.png)

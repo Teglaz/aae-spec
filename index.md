@@ -1,6 +1,7 @@
 <p align="center">
   <img src="images/logo.png" alt="AAE Logo" width="180"/>
-</p># 
+</p>
+
 Dobrodošao u **AAE Standard** 🌟  
 <span id="top"></span>
 

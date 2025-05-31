@@ -101,4 +101,14 @@ Svaka slika iznad prikazuje poseban AAE tag i služi kao referenca za buduće ge
 - **Author:** Milan
 - **Date:** 2025-05-30
 
+---
+
+### Talia Rise – Gold Body Sculpt XY99
+
+![Talia Rise – Gold Body Sculpt XY99](examples/images/talia-rise-gold-body-sculpt-xy99-luv.jpg)
+
+- **EN:** Metallic gold bikini beneath open white linen shirt, straw fedora; Talia Rise walks beach promenade at golden hour, mischievous smile. Leica SL2, 16:9.  
+- **SR:** Metalik zlatni bikini ispod bele lanene košulje, fedora; Talija šeta promenadom u zlatnom zalasku, nestašan osmeh. Leica SL2, 16:9.  
+- **AAE tag:** `AAE-SUNKSD-GOLD-BODYSCULPT-XY99-LUV`
+
 

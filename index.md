@@ -24,6 +24,7 @@ Automatski se ažurira svaki put kada pokreneš `generate_examples_md.py`.
 
 🌍 [View the image gallery in English →](examples-en.md)
 
+
 This gallery contains all AAE images with titles, tags and descriptions in English.  
 It updates automatically when you run `generate_examples_en.py`.
 

@@ -12,3 +12,11 @@ Ispod su AAE primeri.
 
 ## Talia Rise FB05 – Bed  
 ![FB05](examples/images/talia-rise-sunksd-olym-fb05-bed.png)
+## Talia Rise FB04 – Horse
+![Talia Rise FB04](examples/images/talia-rise-sunksd-olym-fb04-horse.png)
+
+## Talia Rise FB05 – Bed
+![Talia Rise FB05](examples/images/talia-rise-sunksd-olym-fb05-bed.png)
+
+## Talia Rise FB06 – Bed II
+![Talia Rise FB06](examples/images/talia-rise-sunksd-olym-fb06-bed.png)

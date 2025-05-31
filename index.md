@@ -20,16 +20,7 @@ Ovaj sajt dokumentuje **Aesthetic Art Ekt (AAE)** – vizuelni prompt-standard z
 📸 [Pogledaj celu galeriju slika →](examples.md)
 
 Galerija sadrži sve generisane AAE slike sa opisima, tagovima i datumima.  
-Automatski se ažurira svaki put kada pokreneš `generate_examples_md.py`.  
-
-🌍 [View the image gallery in English →](examples-en.md)
-
-
-This gallery contains all AAE images with titles, tags and descriptions in English.  
-It updates automatically when you run `generate_examples_en.py`.
-
-
-
+Automatski se ažurira svaki put kada pokreneš `generate_examples_md.py` 
 
 - **[Primeri slika](examples.md)** – kompletna galerija sa tagovima  
 - **[O projektu](about.md)** – motivacija, manifest &amp; istorija  

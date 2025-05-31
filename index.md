@@ -1,4 +1,7 @@
-# Dobrodošao u **AAE Standard** 🌟  
+<p align="center">
+  <img src="images/logo.png" alt="AAE Logo" width="180"/>
+</p># 
+Dobrodošao u **AAE Standard** 🌟  
 <span id="top"></span>
 
 *Welcome to the **AAE Standard** 🌟*

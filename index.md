@@ -1,3 +1,6 @@
+---
+title: AAE Standard
+---
 <p align="center">
   <img src="images/logo.png" alt="AAE Logo" style="width: 300px;"/>
 </p>

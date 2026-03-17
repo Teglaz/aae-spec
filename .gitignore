@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+.sass-cache/
+_site/
+.jekyll-cache/
+Gemfile.lock

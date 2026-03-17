@@ -1,1 +1,11 @@
 theme: minima
+title: AAE Spec
+description: "Aesthetic Art Ekt — vizuelni prompt standard za umetničku AI generaciju"
+baseurl: "/aae-spec"
+url: "https://teglaz.github.io"
+author: Milan Tegeltija
+lang: sr
+
+markdown: kramdown
+kramdown:
+  input: GFM

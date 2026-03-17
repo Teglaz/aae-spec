@@ -1,0 +1,6 @@
+# Python 3.8+ required
+# Standardni moduli — nema eksternih zavisnosti
+# stdlib: json, argparse
+
+# Za pokretanje testova:
+pytest>=7.0
